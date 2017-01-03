@@ -1,0 +1,9 @@
+D:\project\c#\SqlToFrom\SqlToFrom\bin\Debug\SqlToFrom.exe.config
+D:\project\c#\SqlToFrom\SqlToFrom\bin\Debug\SqlToFrom.exe
+D:\project\c#\SqlToFrom\SqlToFrom\bin\Debug\SqlToFrom.pdb
+D:\project\c#\SqlToFrom\SqlToFrom\obj\Debug\SqlToFrom.csprojResolveAssemblyReference.cache
+D:\project\c#\SqlToFrom\SqlToFrom\obj\Debug\SqlToFrom.Form1.resources
+D:\project\c#\SqlToFrom\SqlToFrom\obj\Debug\SqlToFrom.Properties.Resources.resources
+D:\project\c#\SqlToFrom\SqlToFrom\obj\Debug\SqlToFrom.csproj.GenerateResource.Cache
+D:\project\c#\SqlToFrom\SqlToFrom\obj\Debug\SqlToFrom.exe
+D:\project\c#\SqlToFrom\SqlToFrom\obj\Debug\SqlToFrom.pdb
