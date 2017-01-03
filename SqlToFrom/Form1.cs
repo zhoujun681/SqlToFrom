@@ -85,7 +85,7 @@ namespace SqlToFrom
             DataSet ds4 = new DataSet();
             using (SqlConnection conn = new SqlConnection())
             {
-                conn.ConnectionString = "server=192.168.140.58;uid=sa;pwd=zoneking;database=JZCIS";
+                conn.ConnectionString = "server=192.168.140.58;uid=sa;pwd=自己写;database=JZCIS";
                 conn.Open();
                 using (SqlCommand command = conn.CreateCommand())
                 {
@@ -139,7 +139,7 @@ namespace SqlToFrom
             DataSet ds3 = new DataSet();
             using (SqlConnection conn = new SqlConnection())
             {
-                conn.ConnectionString = "server=192.168.140.58;uid=sa;pwd=zoneking;database=JZCIS";
+                conn.ConnectionString = "server=192.168.140.58;uid=sa;pwd=自己写;database=JZCIS";
                 conn.Open();
                 using (SqlCommand command = conn.CreateCommand())
                 {
@@ -188,7 +188,7 @@ namespace SqlToFrom
             DataSet ds = new DataSet();
             using (SqlConnection conn = new SqlConnection())
             {
-                conn.ConnectionString = "server=192.168.140.58;uid=sa;pwd=zoneking;database=JZCIS";
+                conn.ConnectionString = "server=192.168.140.58;uid=sa;pwd=自己写;database=JZCIS";
                 conn.Open();
                 using (SqlCommand command = conn.CreateCommand())
                 {
@@ -244,7 +244,7 @@ Sum(JCSFXM.YJE) as 应收金额,JCXX.DJJE as 未检费用,Sum(JCSFXM.JE) as 实�
            
             using (SqlConnection conn = new SqlConnection())
             {
-                conn.ConnectionString = "server=192.168.140.58;uid=sa;pwd=zoneking;database=JZCIS";
+                conn.ConnectionString = "server=192.168.140.58;uid=sa;pwd=自己写;database=JZCIS";
                 conn.Open();
                 using (SqlCommand command = conn.CreateCommand())
                 {
